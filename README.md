@@ -1,11 +1,11 @@
 # LAB-4-Hospital-Management
-### AIM:
+# AIM:
 To develop the Hospital management System using Star UML tool.
-### PROBLEM STATEMENT:
+# PROBLEM STATEMENT:
 It is very imporatant to maintain efficient software to handle information of a hospital.
 This application provides a way to record this information and to access these in a simple way.
 
-### UML DIAGRAMS:
+# UML DIAGRAMS:
 
 USE CASE DIAGRAM :
 
